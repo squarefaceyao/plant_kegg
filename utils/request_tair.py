@@ -38,18 +38,18 @@ def crawler_tair(gene):
 
 
 if __name__ =='__main__':
+    import os
+    path=os.path.abspath(os.path.dirname(os.getcwd()))+"/Data" # 获取Data绝对路径
+    filename='all_pathway_gene_des.csv'
 
-    genes=pd.read_csv('../Data/all_pathway_gene_des.csv')['0']
+    genes=pd.read_csv(path+'/'+filename)['0']
     res={}
     i=1
     for gene in genes:
-        print(f'这是第{i}个： ',gene)
+        print(f'This is {i}：',gene)
         symbol, description = crawler_tair(gene=gene)
         res[gene] = [gene, symbol, description]
         # print(description)
         i=i+1
 
-
-
-    pd.DataFrame(res).T.to_csv('../Data/test.csv')
-
+    pd.DataFrame(res).T.to_csv('../Data/nodes_tairweb_descriptions.csv') # 保存从Tair网站上获得description结果
