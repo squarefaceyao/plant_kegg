@@ -1,0 +1,980 @@
+,0,1
+AT1G01050,AT1G01050, pyrophosphorylase 1
+AT1G01060,AT1G01060, Homeodomain-like superfamily protein
+AT1G01090,AT1G01090, pyruvate dehydrogenase E1 alpha
+AT1G01120,AT1G01120, 3-ketoacyl-CoA synthase 1
+AT1G01290,AT1G01290, cofactor of nitrate reductase and xanthine dehydrogenase 3
+AT1G01340,AT1G01340, cyclic nucleotide gated channel 10
+AT1G01360,AT1G01360, regulatory component of ABA receptor 1
+AT1G01460,AT1G01460," Phosphatidylinositol-4-phosphate 5-kinase, core"
+AT1G01480,AT1G01480, 1-amino-cyclopropane-1-carboxylate synthase 2
+AT1G01600,AT1G01600," cytochrome P450, family 86, subfamily A, polypeptide 4"
+AT1G01610,AT1G01610, glycerol-3-phosphate acyltransferase 4
+AT1G01710,AT1G01710,acyl-CoA thioesterase II
+AT1G01740,AT1G01740, kinase with tetratricopeptide repeat domain-containing protein
+AT1G02000,AT1G02000, UDP-D-glucuronate 4-epimerase 2
+AT1G02145,AT1G02145, homolog of asparagine-linked glycosylation 12
+AT1G02190,AT1G02190,Fatty acid hydroxylase superfamily
+AT1G02310,AT1G02310, Glycosyl hydrolase superfamily protein
+AT1G02400,AT1G02400, gibberellin 2-oxidase 6
+AT1G02500,AT1G02500, S-adenosylmethionine synthetase 1
+AT1G02620,AT1G02620,Ras-related small GTP-binding family protein
+AT1G02730,AT1G02730, cellulose synthase-like D5
+AT1G02790,AT1G02790, polygalacturonase 4
+AT1G02800,AT1G02800, cellulase 2
+AT1G02810,AT1G02810,Plant invertase/pectin methylesterase inhibitor superfamily
+AT1G02850,AT1G02850, beta glucosidase 11
+AT1G02880,AT1G02880, thiamin pyrophosphokinase1
+AT1G02920,AT1G02920, glutathione S-transferase 7
+AT1G03000,AT1G03000, peroxin 6
+AT1G03055,AT1G03055, beta-carotene isomerase D27-like protein
+AT1G03090,AT1G03090, methylcrotonyl-CoA carboxylase alpha chain
+AT1G03310,AT1G03310, debranching enzyme 1
+AT1G03390,AT1G03390,HXXXD-type acyl-transferase family protein
+AT1G03430,AT1G03430, histidine-containing phosphotransfer factor 5
+AT1G03445,AT1G03445, Serine/threonine protein phosphatase family protein
+AT1G03475,AT1G03475, Coproporphyrinogen III oxidase
+AT1G03630,AT1G03630, protochlorophyllide oxidoreductase C
+AT1G03950,AT1G03950, vacuolar protein sorting-associated protein 2.3
+AT1G03970,AT1G03970, G-box binding factor 4
+AT1G04100,AT1G04100, indoleacetic acid-induced protein 10
+AT1G04180,AT1G04180, YUCCA 9
+AT1G04310,AT1G04310, ethylene response sensor 2
+AT1G04410,AT1G04410, Lactate/malate dehydrogenase family protein
+AT1G04580,AT1G04580, aldehyde oxidase 4
+AT1G04620,AT1G04620," coenzyme F420 hydrogenase family / dehydrogenase, beta subunit family"
+AT1G04640,AT1G04640, lipoyltransferase 2
+AT1G04680,AT1G04680,Pectin lyase-like superfamily protein
+AT1G04710,AT1G04710, peroxisomal 3-ketoacyl-CoA thiolase 4
+AT1G04820,AT1G04820, tubulin alpha-4 chain
+AT1G04850,AT1G04850,ubiquitin-associated (UBA)/TS-N domain-containing protein
+AT1G04920,AT1G04920, sucrose phosphate synthase 3F
+AT1G04980,AT1G04980, PDI-like 2-2
+AT1G05010,AT1G05010, ethylene-forming enzyme
+AT1G05100,AT1G05100, mitogen-activated protein kinase kinase kinase 18
+AT1G05160,AT1G05160," cytochrome P450, family 88, subfamily A, polypeptide 3"
+AT1G05240,AT1G05240,Peroxidase superfamily protein
+AT1G05520,AT1G05520,Sec23/Sec24 protein transport family protein
+AT1G05590,AT1G05590, beta-hexosaminidase 2
+AT1G05610,AT1G05610, ADP-glucose pyrophosphorylase small subunit 2
+AT1G05650,AT1G05650,Pectin lyase-like superfamily protein
+AT1G05990,AT1G05990,EF hand calcium-binding protein family
+AT1G06020,AT1G06020,pfkB-like carbohydrate kinase family protein
+AT1G06130,AT1G06130, glyoxalase 2-4
+AT1G06290,AT1G06290, acyl-CoA oxidase 3
+AT1G06390,AT1G06390, GSK3/SHAGGY-like protein kinase 1
+AT1G06410,AT1G06410, trehalose-phosphatase/synthase 7
+AT1G06450,AT1G06450,"Polynucleotidyl transferase, ribonuclease H-like superfamily protein"
+AT1G06550,AT1G06550,ATP-dependent caseinolytic (Clp) protease/crotonase family protein
+AT1G06570,AT1G06570, 4-hydroxyphenylpyruvate dioxygenase
+AT1G06780,AT1G06780, galacturonosyltransferase 6
+AT1G06820,AT1G06820, carotenoid isomerase
+AT1G07110,AT1G07110," fructose-2,6-bisphosphatase"
+AT1G07230,AT1G07230, non-specific phospholipase C1
+AT1G07380,AT1G07380,Neutral/alkaline non-lysosomal ceramidase
+AT1G07420,AT1G07420, sterol 4-alpha-methyl-oxidase 2-1
+AT1G07430,AT1G07430, highly ABA-induced PP2C protein 2
+AT1G07780,AT1G07780, phosphoribosylanthranilate isomerase 1
+AT1G07890,AT1G07890, ascorbate peroxidase 1
+AT1G08065,AT1G08065, alpha carbonic anhydrase 5
+AT1G08090,AT1G08090, nitrate transporter 2:1
+AT1G08110,AT1G08110,lactoylglutathione lyase family protein / glyoxalase I family protein
+AT1G08200,AT1G08200, UDP-D-apiose/UDP-D-xylose synthase 2
+AT1G08250,AT1G08250, arogenate dehydratase 6
+AT1G08270,AT1G08270,vacuolar protein sorting-associated protein
+AT1G08320,AT1G08320, bZIP transcription factor family protein
+AT1G08490,AT1G08490, chloroplastic NIFS-like cysteine desulfurase
+AT1G08510,AT1G08510, fatty acyl-ACP thioesterases B
+AT1G08520,AT1G08520, ALBINA 1
+AT1G08550,AT1G08550, non-photochemical quenching 1
+AT1G08630,AT1G08630, threonine aldolase 1
+AT1G08980,AT1G08980, amidase 1
+AT1G09000,AT1G09000, NPK1-related protein kinase 1
+AT1G09090,AT1G09090, respiratory burst oxidase-like protein
+AT1G09350,AT1G09350, galactinol synthase 3
+AT1G09400,AT1G09400,FMN-linked oxidoreductases superfamily protein
+AT1G09420,AT1G09420, glucose-6-phosphate dehydrogenase 4
+AT1G09430,AT1G09430, ATP-citrate lyase A-3
+AT1G09530,AT1G09530, phytochrome interacting factor 3
+AT1G09570,AT1G09570, phytochrome A
+AT1G09780,AT1G09780," Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent"
+AT1G09795,AT1G09795, ATP phosphoribosyl transferase 2
+AT1G09830,AT1G09830, Glycinamide ribonucleotide (GAR) synthetase
+AT1G09870,AT1G09870,histidine acid phosphatase family protein
+AT1G09940,AT1G09940, Glutamyl-tRNA reductase family protein
+AT1G10060,AT1G10060, branched-chain amino acid transaminase 1
+AT1G10210,AT1G10210, mitogen-activated protein kinase 1
+AT1G10430,AT1G10430, protein phosphatase 2A-2
+AT1G10470,AT1G10470, response regulator 4
+AT1G10830,AT1G10830, 15-cis-zeta-carotene isomerase
+AT1G10940,AT1G10940, Protein kinase superfamily protein
+AT1G11090,AT1G11090,alpha/beta-Hydrolases superfamily protein
+AT1G11600,AT1G11600," cytochrome P450, family 77, subfamily B, polypeptide 1"
+AT1G11610,AT1G11610," cytochrome P450, family 71, subfamily A, polypeptide 18"
+AT1G11680,AT1G11680, CYTOCHROME P450 51G1
+AT1G11720,AT1G11720, starch synthase 3
+AT1G11755,AT1G11755, Undecaprenyl pyrophosphate synthetase family protein
+AT1G11820,AT1G11820,O-Glycosyl hydrolases family 17 protein
+AT1G11860,AT1G11860,Glycine cleavage T-protein family
+AT1G11880,AT1G11880,"transferases, transferring hexosyl groups"
+AT1G12000,AT1G12000,Phosphofructokinase family protein
+AT1G12050,AT1G12050,fumarylacetoacetase
+AT1G12220,AT1G12220, Disease resistance protein (CC-NBS-LRR class) family
+AT1G12230,AT1G12230,Aldolase superfamily protein
+AT1G12240,AT1G12240, Glycosyl hydrolases family 32 protein
+AT1G12280,AT1G12280, LRR and NB-ARC domains-containing disease resistance protein
+AT1G12350,AT1G12350, 4-phospho-panto-thenoylcysteine synthetase
+AT1G12550,AT1G12550, D-isomer specific 2-hydroxyacid dehydrogenase family protein
+AT1G12640,AT1G12640, MBOAT (membrane bound O-acyl transferase) family protein
+AT1G12780,AT1G12780, UDP-D-glucose/UDP-D-galactose 4-epimerase 1
+AT1G12840,AT1G12840, vacuolar ATP synthase subunit C (VATC) / V-ATPase C subunit / vacuolar proton pump C subunit (DET3)
+AT1G12900,AT1G12900, glyceraldehyde 3-phosphate dehydrogenase A subunit 2
+AT1G12990,AT1G12990,"beta-1,4-N-acetylglucosaminyltransferase family protein"
+AT1G13190,AT1G13190,RNA-binding (RRM/RBD/RNP motifs) family protein
+AT1G13280,AT1G13280, allene oxide cyclase 4
+AT1G13440,AT1G13440, glyceraldehyde-3-phosphate dehydrogenase C2
+AT1G13560,AT1G13560, aminoalcoholphosphotransferase 1
+AT1G13700,AT1G13700, 6-phosphogluconolactonase 1
+AT1G14120,AT1G14120,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT1G14230,AT1G14230,GDA1/CD39 nucleoside phosphatase family protein
+AT1G14290,AT1G14290, sphingoid base hydroxylase 2
+AT1G14520,AT1G14520, myo-inositol oxygenase 1
+AT1G14700,AT1G14700, purple acid phosphatase 3
+AT1G14810,AT1G14810,semialdehyde dehydrogenase family protein
+AT1G14920,AT1G14920, GRAS family transcription factor family protein
+AT1G15080,AT1G15080, lipid phosphate phosphatase 2
+AT1G15110,AT1G15110, phosphatidyl serine synthase family protein
+AT1G15130,AT1G15130,Endosomal targeting BRO1-like domain-containing protein
+AT1G15550,AT1G15550, gibberellin 3-oxidase 1
+AT1G15710,AT1G15710,prephenate dehydrogenase family protein
+AT1G15950,AT1G15950, cinnamoyl coa reductase 1
+AT1G16350,AT1G16350,Aldolase-type TIM barrel family protein
+AT1G16460,AT1G16460, rhodanese homologue 2
+AT1G16510,AT1G16510,SAUR-like auxin-responsive protein family
+AT1G16540,AT1G16540, molybdenum cofactor sulfurase (LOS5) (ABA3)
+AT1G16570,AT1G16570,UDP-Glycosyltransferase superfamily protein
+AT1G16900,AT1G16900, Alg9-like mannosyltransferase family
+AT1G17050,AT1G17050, solanesyl diphosphate synthase 2
+AT1G17160,AT1G17160,pfkB-like carbohydrate kinase family protein
+AT1G17260,AT1G17260, autoinhibited H[+]-ATPase
+AT1G17290,AT1G17290, alanine aminotransferas
+AT1G17340,AT1G17340,Phosphoinositide phosphatase family protein
+AT1G17380,AT1G17380, jasmonate-zim-domain protein 5
+AT1G17420,AT1G17420, lipoxygenase 3
+AT1G17650,AT1G17650, glyoxylate reductase 2
+AT1G17710,AT1G17710, Pyridoxal phosphate phosphatase-related protein
+AT1G17730,AT1G17730, vacuolar protein sorting 46.1
+AT1G17745,AT1G17745, D-3-phosphoglycerate dehydrogenase
+AT1G17890,AT1G17890, NAD(P)-binding Rossmann-fold superfamily protein
+AT1G18070,AT1G18070,Translation elongation factor EF1A/initiation factor IF2gamma family protein
+AT1G18150,AT1G18150, Protein kinase superfamily protein
+AT1G18500,AT1G18500, methylthioalkylmalate synthase-like 4
+AT1G18640,AT1G18640, 3-phosphoserine phosphatase
+AT1G18830,AT1G18830,Transducin/WD40 repeat-like superfamily protein
+AT1G18870,AT1G18870, isochorismate synthase 2
+AT1G18890,AT1G18890, calcium-dependent protein kinase 1
+AT1G19350,AT1G19350, Brassinosteroid signaling positive regulator (BZR1) family protein
+AT1G19550,AT1G19550,Glutathione S-transferase family protein
+AT1G19670,AT1G19670, chlorophyllase 1
+AT1G19850,AT1G19850, Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-like protein
+AT1G19920,AT1G19920, Pseudouridine synthase/archaeosine transglycosylase-like family protein
+AT1G20010,AT1G20010, tubulin beta-5 chain
+AT1G20050,AT1G20050," C-8,7 sterol isomerase"
+AT1G20270,AT1G20270,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT1G20330,AT1G20330, sterol methyltransferase 2
+AT1G20480,AT1G20480,AMP-dependent synthetase and ligase family protein
+AT1G20620,AT1G20620, catalase 3
+AT1G20720,AT1G20720,RAD3-like DNA-binding helicase protein
+AT1G21400,AT1G21400,Thiamin diphosphate-binding fold (THDP-binding) superfamily protein
+AT1G21640,AT1G21640, NAD kinase 2
+AT1G22020,AT1G22020, serine hydroxymethyltransferase 6
+AT1G22100,AT1G22100,Inositol-pentakisphosphate 2-kinase family protein
+AT1G22170,AT1G22170,Phosphoglycerate mutase family protein
+AT1G22410,AT1G22410,Class-II DAHP synthetase family protein
+AT1G22430,AT1G22430,GroES-like zinc-binding dehydrogenase family protein
+AT1G22760,AT1G22760, poly(A) binding protein 3
+AT1G22770,AT1G22770, gigantea protein (GI)
+AT1G22940,AT1G22940, thiamin biosynthesis protein
+AT1G23160,AT1G23160,Auxin-responsive GH3 family protein
+AT1G23190,AT1G23190, Phosphoglucomutase/phosphomannomutase family protein
+AT1G23240,AT1G23240,Caleosin-related family protein
+AT1G23310,AT1G23310, glutamate:glyoxylate aminotransferase
+AT1G23320,AT1G23320, tryptophan aminotransferase related 1
+AT1G23360,AT1G23360, S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT1G23800,AT1G23800, aldehyde dehydrogenase 2B7
+AT1G23820,AT1G23820, spermidine synthase
+AT1G24100,AT1G24100, UDP-glucosyl transferase 74B1
+AT1G24320,AT1G24320,Six-hairpin glycosidases superfamily protein
+AT1G24360,AT1G24360,NAD(P)-binding Rossmann-fold superfamily protein
+AT1G24470,AT1G24470, beta-ketoacyl reductase 2
+AT1G24735,AT1G24735,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT1G24807,AT1G24807,Glutamine amidotransferase type 1 family protein
+AT1G25350,AT1G25350," glutamine-tRNA ligase, putative / glutaminyl-tRNA synthetase, putative / GlnRS"
+AT1G25410,AT1G25410, isopentenyltransferase 6
+AT1G26120,AT1G26120, alpha/beta-Hydrolases superfamily protein
+AT1G26190,AT1G26190,Phosphoribulokinase / Uridine kinase family
+AT1G26220,AT1G26220,Acyl-CoA N-acyltransferases (NAT) superfamily protein
+AT1G26570,AT1G26570, UDP-glucose dehydrogenase 1
+AT1G26640,AT1G26640,Amino acid kinase family protein
+AT1G26810,AT1G26810, galactosyltransferase1
+AT1G27320,AT1G27320, histidine kinase 3
+AT1G27450,AT1G27450, adenine phosphoribosyl transferase 1
+AT1G27980,AT1G27980, dihydrosphingosine phosphate lyase
+AT1G29260,AT1G29260, peroxin 7
+AT1G29900,AT1G29900, carbamoyl phosphate synthetase B
+AT1G30000,AT1G30000, alpha-mannosidase 3
+AT1G30100,AT1G30100, nine-cis-epoxycarotenoid dioxygenase 5
+AT1G30520,AT1G30520, acyl-activating enzyme 14
+AT1G30530,AT1G30530, UDP-glucosyl transferase 78D1
+AT1G30620,AT1G30620, NAD(P)-binding Rossmann-fold superfamily protein
+AT1G30760,AT1G30760,FAD-binding Berberine family protein
+AT1G30820,AT1G30820,CTP synthase family protein
+AT1G31070,AT1G31070, N-acetylglucosamine-1-phosphate uridylyltransferase 1
+AT1G31180,AT1G31180, isopropylmalate dehydrogenase 3
+AT1G31190,AT1G31190, myo-inositol monophosphatase like 1
+AT1G31220,AT1G31220,Formyl transferase
+AT1G31230,AT1G31230, aspartate kinase-homoserine dehydrogenase i
+AT1G31670,AT1G31670,Copper amine oxidase family protein
+AT1G31800,AT1G31800," cytochrome P450, family 97, subfamily A, polypeptide 3"
+AT1G31860,AT1G31860, histidine biosynthesis bifunctional protein (HISIE)
+AT1G31910,AT1G31910,GHMP kinase family protein
+AT1G32060,AT1G32060, phosphoribulokinase
+AT1G32100,AT1G32100, pinoresinol reductase 1
+AT1G32300,AT1G32300," D-arabinono-1,4-lactone oxidase family protein"
+AT1G32380,AT1G32380, phosphoribosyl pyrophosphate (PRPP) synthase 2
+AT1G32440,AT1G32440, plastidial pyruvate kinase 3
+AT1G32480,AT1G32480, isocitrate dehydrogenase IV
+AT1G32640,AT1G32640, Basic helix-loop-helix (bHLH) DNA-binding family protein
+AT1G32900,AT1G32900, UDP-Glycosyltransferase superfamily protein
+AT1G33320,AT1G33320,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT1G33700,AT1G33700,"Beta-glucosidase, GBA2 type family protein"
+AT1G34120,AT1G34120, inositol polyphosphate 5-phosphatase I
+AT1G34245,AT1G34245, Putative membrane lipoprotein
+AT1G34260,AT1G34260, FORMS APLOID AND BINUCLEATE CELLS 1A
+AT1G34430,AT1G34430, 2-oxoacid dehydrogenases acyltransferase family protein
+AT1G36160,AT1G36160, acetyl-CoA carboxylase 1
+AT1G36280,AT1G36280,L-Aspartase-like family protein
+AT1G37130,AT1G37130, nitrate reductase 2
+AT1G37150,AT1G37150, holocarboxylase synthetase 2
+AT1G43670,AT1G43670, Inositol monophosphatase family protein
+AT1G43700,AT1G43700, VIRE2-interacting protein 1
+AT1G43710,AT1G43710, Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT1G43800,AT1G43800, Plant stearoyl-acyl-carrier-protein desaturase family protein
+AT1G44000,AT1G44000,STAY-GREEN-like protein
+AT1G44090,AT1G44090, gibberellin 20-oxidase 5
+AT1G44180,AT1G44180,Peptidase M20/M25/M40 family protein
+AT1G44318,AT1G44318, Aldolase superfamily protein
+AT1G44446,AT1G44446, Pheophorbide a oxygenase family protein with Rieske 2Fe-2S domain-containing protein
+AT1G44790,AT1G44790,ChaC-like family protein
+AT1G47290,AT1G47290, 3beta-hydroxysteroid-dehydrogenase/decarboxylase
+AT1G47578,AT1G47578,Biotin/lipoate A/B protein ligase family
+AT1G47600,AT1G47600, beta glucosidase 34
+AT1G47840,AT1G47840, hexokinase 3
+AT1G48030,AT1G48030, mitochondrial lipoamide dehydrogenase 1
+AT1G48130,AT1G48130, 1-cysteine peroxiredoxin 1
+AT1G48300,AT1G48300, diacylglycerol acyltransferase
+AT1G48320,AT1G48320, Thioesterase superfamily protein
+AT1G48420,AT1G48420, D-cysteine desulfhydrase
+AT1G48430,AT1G48430,Dihydroxyacetone kinase
+AT1G48470,AT1G48470,5
+AT1G48520,AT1G48520, GLU-ADT subunit B
+AT1G48600,AT1G48600, S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT1G48605,AT1G48605, Flavoprotein
+AT1G48850,AT1G48850," chorismate synthase, putative / 5-enolpyruvylshikimate-3-phosphate phospholyase"
+AT1G48860,AT1G48860,"RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta"
+AT1G49190,AT1G49190, response regulator 19
+AT1G49340,AT1G49340, Phosphatidylinositol 3- and 4-kinase family protein
+AT1G49430,AT1G49430, long-chain acyl-CoA synthetase 2
+AT1G49530,AT1G49530, geranylgeranyl pyrophosphate synthase 6
+AT1G49710,AT1G49710, fucosyltransferase 12
+AT1G49820,AT1G49820, S-methyl-5-thioribose kinase
+AT1G50030,AT1G50030, target of rapamycin
+AT1G50060,AT1G50060,"CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein"
+AT1G50430,AT1G50430, Ergosterol biosynthesis ERG4/ERG24 family
+AT1G50480,AT1G50480, 10-formyltetrahydrofolate synthetase
+AT1G50510,AT1G50510,indigoidine synthase A family protein
+AT1G51420,AT1G51420, sucrose-phosphatase 1
+AT1G51590,AT1G51590, alpha-mannosidase 1
+AT1G51660,AT1G51660, mitogen-activated protein kinase kinase 4
+AT1G51680,AT1G51680, 4-coumarate:CoA ligase 1
+AT1G51720,AT1G51720,Amino acid dehydrogenase family protein
+AT1G52340,AT1G52340, NAD(P)-binding Rossmann-fold superfamily protein
+AT1G52400,AT1G52400, beta glucosidase 18
+AT1G52570,AT1G52570, phospholipase D alpha 2
+AT1G52760,AT1G52760, lysophospholipase 2
+AT1G53310,AT1G53310, phosphoenolpyruvate carboxylase 1
+AT1G53500,AT1G53500, NAD-dependent epimerase/dehydratase family protein
+AT1G53580,AT1G53580, glyoxalase II 3
+AT1G53710,AT1G53710,Calcineurin-like metallo-phosphoesterase superfamily protein
+AT1G54100,AT1G54100, aldehyde dehydrogenase 7B4
+AT1G54130,AT1G54130, RELA/SPOT homolog 3
+AT1G54210,AT1G54210, Ubiquitin-like superfamily protein
+AT1G54340,AT1G54340, isocitrate dehydrogenase
+AT1G54490,AT1G54490, exoribonuclease 4
+AT1G55020,AT1G55020, lipoxygenase 1
+AT1G55090,AT1G55090,carbon-nitrogen hydrolase family protein
+AT1G55290,AT1G55290,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT1G55570,AT1G55570, SKU5 similar 12
+AT1G55740,AT1G55740, seed imbibition 1
+AT1G55880,AT1G55880,Pyridoxal-5'-phosphate-dependent enzyme family protein
+AT1G55920,AT1G55920,1
+AT1G56190,AT1G56190,Phosphoglycerate kinase family protein
+AT1G56650,AT1G56650, production of anthocyanin pigment 1
+AT1G56680,AT1G56680,Chitinase family protein
+AT1G57750,AT1G57750," cytochrome P450, family 96, subfamily A, polypeptide 15"
+AT1G58300,AT1G58300, heme oxygenase 4
+AT1G58440,AT1G58440, FAD/NAD(P)-binding oxidoreductase family protein
+AT1G58470,AT1G58470, RNA-binding protein 1
+AT1G60440,AT1G60440, pantothenate kinase 1
+AT1G60490,AT1G60490, vacuolar protein sorting 34
+AT1G60550,AT1G60550, enoyl-CoA hydratase/isomerase D
+AT1G60600,AT1G60600, UbiA prenyltransferase family protein
+AT1G61050,AT1G61050,"alpha 1,4-glycosyltransferase family protein"
+AT1G61120,AT1G61120, terpene synthase 04
+AT1G61680,AT1G61680, terpene synthase 14
+AT1G61720,AT1G61720, NAD(P)-binding Rossmann-fold superfamily protein
+AT1G62040,AT1G62040, Ubiquitin-like superfamily protein
+AT1G62180,AT1G62180, 5'adenylylphosphosulfate reductase 2
+AT1G62430,AT1G62430, CDP-diacylglycerol synthase 1
+AT1G62640,AT1G62640, 3-ketoacyl-acyl carrier protein synthase III
+AT1G62800,AT1G62800, aspartate aminotransferase 4
+AT1G63000,AT1G63000, nucleotide-rhamnose synthase/epimerase-reductase
+AT1G63290,AT1G63290,Aldolase-type TIM barrel family protein
+AT1G63460,AT1G63460, glutathione peroxidase 8
+AT1G63660,AT1G63660,"GMP synthase (glutamine-hydrolyzing), putative / glutamine amidotransferase"
+AT1G63700,AT1G63700, Protein kinase superfamily protein
+AT1G63770,AT1G63770,Peptidase M1 family protein
+AT1G63940,AT1G63940, monodehydroascorbate reductase 6
+AT1G63970,AT1G63970, isoprenoid F
+AT1G64190,AT1G64190,6-phosphogluconate dehydrogenase family protein
+AT1G64280,AT1G64280, regulatory protein (NPR1)
+AT1G64660,AT1G64660, methionine gamma-lyase
+AT1G64750,AT1G64750, deletion of SUV3 suppressor 1(I)
+AT1G64970,AT1G64970, gamma-tocopherol methyltransferase
+AT1G65480,AT1G65480, PEBP (phosphatidylethanolamine-binding protein) family protein
+AT1G65840,AT1G65840, polyamine oxidase 4
+AT1G65960,AT1G65960, glutamate decarboxylase 2
+AT1G66410,AT1G66410, calmodulin 4
+AT1G66500,AT1G66500,Pre-mRNA cleavage complex II
+AT1G66520,AT1G66520, formyltransferase
+AT1G67070,AT1G67070," Mannose-6-phosphate isomerase, type I"
+AT1G67090,AT1G67090, ribulose bisphosphate carboxylase small chain 1A
+AT1G67110,AT1G67110," cytochrome P450, family 735, subfamily A, polypeptide 2"
+AT1G67440,AT1G67440, Minichromosome maintenance (MCM2/3/5) family protein
+AT1G67550,AT1G67550, urease
+AT1G67990,AT1G67990, S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT1G68000,AT1G68000, phosphatidylinositol synthase 1
+AT1G68010,AT1G68010, hydroxypyruvate reductase
+AT1G68890,AT1G68890, 2-oxoglutarate decarboxylase/hydro-lyase/magnesium ion-binding protein
+AT1G69190,AT1G69190,Dihydropterin pyrophosphokinase / Dihydropteroate synthase
+AT1G69370,AT1G69370, chorismate mutase 3
+AT1G69500,AT1G69500," cytochrome P450, family 704, subfamily B, polypeptide 1"
+AT1G69770,AT1G69770, chromomethylase 3
+AT1G69820,AT1G69820, gamma-glutamyl transpeptidase 3
+AT1G69830,AT1G69830, alpha-amylase-like 3
+AT1G70980,AT1G70980, Class II aminoacyl-tRNA and biotin synthetases superfamily protein
+AT1G71100,AT1G71100," Ribose 5-phosphate isomerase, type A protein"
+AT1G71170,AT1G71170,6-phosphogluconate dehydrogenase family protein
+AT1G71697,AT1G71697, choline kinase 1
+AT1G71750,AT1G71750, Hypoxanthine-guanine phosphoribosyltransferase
+AT1G71920,AT1G71920, HISTIDINE BIOSYNTHESIS 6B
+AT1G71990,AT1G71990, fucosyltransferase 13
+AT1G72280,AT1G72280, endoplasmic reticulum oxidoreductins 1
+AT1G72590,AT1G72590,3-oxo-5-alpha-steroid 4-dehydrogenase family protein
+AT1G72680,AT1G72680, cinnamyl-alcohol dehydrogenase
+AT1G72810,AT1G72810,Pyridoxal-5'-phosphate-dependent enzyme family protein
+AT1G72880,AT1G72880,Survival protein SurE-like phosphatase/nucleotidase
+AT1G72970,AT1G72970, Glucose-methanol-choline (GMC) oxidoreductase family protein
+AT1G72990,AT1G72990, beta-galactosidase 17
+AT1G73050,AT1G73050,Glucose-methanol-choline (GMC) oxidoreductase family protein
+AT1G73370,AT1G73370, sucrose synthase 6
+AT1G73500,AT1G73500, MAP kinase kinase 9
+AT1G73680,AT1G73680, alpha dioxygenase
+AT1G73730,AT1G73730, ETHYLENE-INSENSITIVE3-like 3
+AT1G74000,AT1G74000, strictosidine synthase 3
+AT1G74030,AT1G74030, enolase 1
+AT1G74100,AT1G74100, sulfotransferase 16
+AT1G74210,AT1G74210, PLC-like phosphodiesterases superfamily protein
+AT1G74260,AT1G74260, purine biosynthesis 4
+AT1G74470,AT1G74470,Pyridine nucleotide-disulfide oxidoreductase family protein
+AT1G74540,AT1G74540," cytochrome P450, family 98, subfamily A, polypeptide 8"
+AT1G74910,AT1G74910,ADP-glucose pyrophosphorylase family protein
+AT1G74960,AT1G74960, fatty acid biosynthesis 1
+AT1G75020,AT1G75020, lysophosphatidyl acyltransferase 4
+AT1G75330,AT1G75330, ornithine carbamoyltransferase
+AT1G76170,AT1G76170,"2-thiocytidine tRNA biosynthesis protein, TtcA"
+AT1G76490,AT1G76490, hydroxy methylglutaryl CoA reductase 1
+AT1G76730,AT1G76730, NagB/RpiA/CoA transferase-like superfamily protein
+AT1G77120,AT1G77120, alcohol dehydrogenase 1
+AT1G77320,AT1G77320, transcription coactivator
+AT1G77670,AT1G77670,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT1G78500,AT1G78500,Terpenoid cyclases family protein
+AT1G78660,AT1G78660, gamma-glutamyl hydrolase 1
+AT1G78800,AT1G78800,UDP-Glycosyltransferase superfamily protein
+AT1G78950,AT1G78950, Terpenoid cyclases family protein
+AT1G78955,AT1G78955, camelliol C synthase 1
+AT1G78960,AT1G78960, lupeol synthase 2
+AT1G78970,AT1G78970, lupeol synthase 1
+AT1G79440,AT1G79440, aldehyde dehydrogenase 5F1
+AT1G79460,AT1G79460, Terpenoid cyclases/Protein prenyltransferases superfamily protein
+AT1G79750,AT1G79750, NADP-malic enzyme 4
+AT1G79790,AT1G79790, Haloacid dehalogenase-like hydrolase (HAD) superfamily protein
+AT1G80210,AT1G80210, Mov34/MPN/PAD-1 family protein
+AT1G80360,AT1G80360,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT1G80380,AT1G80380,P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT1G80460,AT1G80460, Actin-like ATPase superfamily protein
+AT1G80600,AT1G80600, HOPW1-1-interacting 1
+AT1G80860,AT1G80860, phospholipid N-methyltransferase
+AT1G80950,AT1G80950,Phospholipid/glycerol acyltransferase family protein
+AT2G01140,AT2G01140, Aldolase superfamily protein
+AT2G01350,AT2G01350, quinolinate phoshoribosyltransferase
+AT2G01470,AT2G01470, SEC12P-like 2 protein
+AT2G02380,AT2G02380, glutathione S-transferase (class zeta) 2
+AT2G02500,AT2G02500, Nucleotide-diphospho-sugar transferases superfamily protein
+AT2G04400,AT2G04400,Aldolase-type TIM barrel family protein
+AT2G05320,AT2G05320,"beta-1,2-N-acetylglucosaminyltransferase II"
+AT2G05710,AT2G05710, aconitase 3
+AT2G05830,AT2G05830,NagB/RpiA/CoA transferase-like superfamily protein
+AT2G05990,AT2G05990, NAD(P)-binding Rossmann-fold superfamily protein
+AT2G06925,AT2G06925, Phospholipase A2 family protein
+AT2G07050,AT2G07050, cycloartenol synthase 1
+AT2G11810,AT2G11810, monogalactosyldiacylglycerol synthase type C
+AT2G13360,AT2G13360, alanine:glyoxylate aminotransferase
+AT2G13540,AT2G13540, ARM repeat superfamily protein
+AT2G13560,AT2G13560, NAD-dependent malic enzyme 1
+AT2G13790,AT2G13790, somatic embryogenesis receptor-like kinase 4
+AT2G13810,AT2G13810, AGD2-like defense response protein 1
+AT2G14170,AT2G14170, aldehyde dehydrogenase 6B2
+AT2G14260,AT2G14260, proline iminopeptidase
+AT2G14750,AT2G14750, APS kinase
+AT2G15230,AT2G15230, lipase 1
+AT2G15620,AT2G15620, nitrite reductase 1
+AT2G16370,AT2G16370, thymidylate synthase 1
+AT2G16500,AT2G16500, arginine decarboxylase 1
+AT2G16570,AT2G16570, GLN phosphoribosyl pyrophosphate amidotransferase 1
+AT2G16790,AT2G16790,P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT2G17265,AT2G17265, homoserine kinase
+AT2G17420,AT2G17420, NADPH-dependent thioredoxin reductase A
+AT2G17630,AT2G17630,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT2G17900,AT2G17900, SET domain group 37
+AT2G18250,AT2G18250, 4-phosphopantetheine adenylyltransferase
+AT2G18450,AT2G18450, succinate dehydrogenase 1-2
+AT2G18730,AT2G18730, diacylglycerol kinase 3
+AT2G18790,AT2G18790, phytochrome B
+AT2G18950,AT2G18950, homogentisate phytyltransferase 1
+AT2G19070,AT2G19070, spermidine hydroxycinnamoyl transferase
+AT2G19190,AT2G19190, FLG22-induced receptor-like kinase 1
+AT2G19570,AT2G19570, cytidine deaminase 1
+AT2G19830,AT2G19830, SNF7 family protein
+AT2G19940,AT2G19940,Putative N-acetyl-gamma-glutamyl-phosphate reductase
+AT2G20340,AT2G20340, Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT2G20420,AT2G20420,ATP citrate lyase (ACL) family protein
+AT2G20610,AT2G20610, Tyrosine transaminase family protein
+AT2G20690,AT2G20690,lumazine-binding family protein
+AT2G20860,AT2G20860, lipoic acid synthase 1
+AT2G21170,AT2G21170, triosephosphate isomerase
+AT2G21270,AT2G21270, ubiquitin fusion degradation 1
+AT2G21370,AT2G21370, xylulose kinase-1
+AT2G21430,AT2G21430,Papain family cysteine protease
+AT2G21790,AT2G21790, ribonucleotide reductase 1
+AT2G21940,AT2G21940, shikimate kinase 1
+AT2G22040,AT2G22040, Transducin/WD40 repeat-like superfamily protein
+AT2G22230,AT2G22230,Thioesterase superfamily protein
+AT2G22240,AT2G22240, myo-inositol-1-phosphate synthase 2
+AT2G22250,AT2G22250, aspartate aminotransferase
+AT2G22330,AT2G22330," cytochrome P450, family 79, subfamily B, polypeptide 3"
+AT2G22450,AT2G22450, riboflavin biosynthesis protein
+AT2G22480,AT2G22480, phosphofructokinase 5
+AT2G22910,AT2G22910, N-acetyl-l-glutamate synthase 1
+AT2G22990,AT2G22990, sinapoylglucose 1
+AT2G23420,AT2G23420, nicotinate phosphoribosyltransferase 2
+AT2G24200,AT2G24200, Cytosol aminopeptidase family protein
+AT2G24210,AT2G24210, terpene synthase 10
+AT2G24270,AT2G24270, aldehyde dehydrogenase 11A3
+AT2G24580,AT2G24580,FAD-dependent oxidoreductase family protein
+AT2G24850,AT2G24850, tyrosine aminotransferase 3
+AT2G25490,AT2G25490, EIN3-binding F box protein 1
+AT2G25930,AT2G25930, hydroxyproline-rich glycoprotein family protein
+AT2G26020,AT2G26020, plant defensin 1.2b
+AT2G26070,AT2G26070, protein REVERSION-TO-ETHYLENE SENSITIVITY-like protein (DUF778)
+AT2G26080,AT2G26080, glycine decarboxylase P-protein 2
+AT2G26230,AT2G26230,uricase / urate oxidase / nodulin 35
+AT2G26330,AT2G26330, Leucine-rich receptor-like protein kinase family protein
+AT2G26400,AT2G26400, acireductone dioxygenase 3
+AT2G26540,AT2G26540, uroporphyrinogen-III synthase family protein
+AT2G26710,AT2G26710, Cytochrome P450 superfamily protein
+AT2G26800,AT2G26800,Aldolase superfamily protein
+AT2G26930,AT2G26930, 4-(cytidine 5'-phospho)-2-C-methyl-D-erithritol kinase
+AT2G27150,AT2G27150, abscisic aldehyde oxidase 3
+AT2G27340,AT2G27340,N-acetylglucosaminylphosphatidylinositol de-N-acetylase family protein
+AT2G27450,AT2G27450, nitrilase-like protein 1
+AT2G27490,AT2G27490, dephospho-CoA kinase family
+AT2G28760,AT2G28760, UDP-XYL synthase 6
+AT2G28850,AT2G28850," cytochrome P450, family 710, subfamily A, polypeptide 3"
+AT2G28880,AT2G28880, para-aminobenzoate (PABA) synthase family protein
+AT2G29090,AT2G29090," cytochrome P450, family 707, subfamily A, polypeptide 2"
+AT2G29630,AT2G29630, thiaminC
+AT2G30200,AT2G30200, EMBRYO DEFECTIVE 3147
+AT2G30250,AT2G30250, WRKY DNA-binding protein 25
+AT2G30390,AT2G30390, ferrochelatase 2
+AT2G30490,AT2G30490, cinnamate-4-hydroxylase
+AT2G30920,AT2G30920, coenzyme Q 3
+AT2G31810,AT2G31810,ACT domain-containing small subunit of acetolactate synthase protein
+AT2G31955,AT2G31955, cofactor of nitrate reductase and xanthine dehydrogenase 2
+AT2G31970,AT2G31970, DNA repair-recombination protein (RAD50)
+AT2G32260,AT2G32260, phosphorylcholine cytidylyltransferase
+AT2G32290,AT2G32290, beta-amylase 6
+AT2G35040,AT2G35040,AICARFT/IMPCHase bienzyme family protein
+AT2G36230,AT2G36230, Aldolase-type TIM barrel family protein
+AT2G36305,AT2G36305, farnesylated protein-converting enzyme 2
+AT2G36310,AT2G36310, uridine-ribohydrolase 1
+AT2G36390,AT2G36390, starch branching enzyme 2.1
+AT2G36790,AT2G36790, UDP-glucosyl transferase 73C6
+AT2G37040,AT2G37040, PHE ammonia lyase 1
+AT2G37250,AT2G37250, adenosine kinase
+AT2G37500,AT2G37500,arginine biosynthesis protein ArgJ family
+AT2G37690,AT2G37690,"phosphoribosylaminoimidazole carboxylase, putative / AIR carboxylase"
+AT2G37790,AT2G37790, NAD(P)-linked oxidoreductase superfamily protein
+AT2G37840,AT2G37840,Protein kinase superfamily protein
+AT2G38050,AT2G38050, 3-oxo-5-alpha-steroid 4-dehydrogenase family protein
+AT2G38230,AT2G38230, pyridoxine biosynthesis 1.1
+AT2G38280,AT2G38280," AMP deaminase, putative / myoadenylate deaminase"
+AT2G38400,AT2G38400, alanine:glyoxylate aminotransferase 3
+AT2G38470,AT2G38470, WRKY DNA-binding protein 33
+AT2G38670,AT2G38670, phosphorylethanolamine cytidylyltransferase 1
+AT2G38700,AT2G38700, mevalonate diphosphate decarboxylase 1
+AT2G38860,AT2G38860, Class I glutamine amidotransferase-like superfamily protein
+AT2G39290,AT2G39290, phosphatidylglycerolphosphate synthase 1
+AT2G39630,AT2G39630,Nucleotide-diphospho-sugar transferases superfamily protein
+AT2G39800,AT2G39800, delta1-pyrroline-5-carboxylate synthase 1
+AT2G39940,AT2G39940, RNI-like superfamily protein
+AT2G40116,AT2G40116,Phosphoinositide-specific phospholipase C family protein
+AT2G40190,AT2G40190, UDP-Glycosyltransferase superfamily protein
+AT2G40290,AT2G40290,Eukaryotic translation initiation factor 2 subunit 1
+AT2G40490,AT2G40490, Uroporphyrinogen decarboxylase
+AT2G40690,AT2G40690, NAD-dependent glycerol-3-phosphate dehydrogenase family protein
+AT2G40840,AT2G40840, disproportionating enzyme 2
+AT2G40890,AT2G40890," cytochrome P450, family 98, subfamily A, polypeptide 3"
+AT2G41220,AT2G41220, glutamate synthase 2
+AT2G41490,AT2G41490, UDP-glcnac-adolichol phosphate glcnac-1-p-transferase
+AT2G41880,AT2G41880, guanylate kinase 1
+AT2G42070,AT2G42070, nudix hydrolase homolog 23
+AT2G42790,AT2G42790, citrate synthase 3
+AT2G43090,AT2G43090,Aconitase/3-isopropylmalate dehydratase protein
+AT2G43360,AT2G43360, Radical SAM superfamily protein
+AT2G43760,AT2G43760,molybdopterin biosynthesis MoaE family protein
+AT2G43790,AT2G43790, MAP kinase 6
+AT2G43980,AT2G43980," inositol 1,3,4-trisphosphate 5/6-kinase 4"
+AT2G44040,AT2G44040,"Dihydrodipicolinate reductase, bacterial/plant"
+AT2G44050,AT2G44050," 6,7-dimethyl-8-ribityllumazine synthase / DMRL synthase / lumazine synthase / riboflavin synthase"
+AT2G44140,AT2G44140,Peptidase family C54 protein
+AT2G44160,AT2G44160, methylenetetrahydrofolate reductase 2
+AT2G44520,AT2G44520, cytochrome c oxidase 10
+AT2G44660,AT2G44660,"ALG6, ALG8 glycosyltransferase family"
+AT2G44810,AT2G44810, alpha/beta-Hydrolases superfamily protein
+AT2G44990,AT2G44990, carotenoid cleavage dioxygenase 7
+AT2G45290,AT2G45290,Transketolase
+AT2G45440,AT2G45440, dihydrodipicolinate synthase
+AT2G45695,AT2G45695,Ubiquitin related modifier 1
+AT2G45790,AT2G45790, phosphomannomutase
+AT2G46110,AT2G46110, ketopantoate hydroxymethyltransferase 1
+AT2G46580,AT2G46580,Pyridoxamine 5'-phosphate oxidase family protein
+AT2G46790,AT2G46790, pseudo-response regulator 9
+AT2G46830,AT2G46830, circadian clock associated 1
+AT2G47510,AT2G47510, fumarase 1
+AT2G47760,AT2G47760, asparagine-linked glycosylation 3
+AT2G47970,AT2G47970,Nuclear pore localization protein NPL4
+AT3G01260,AT3G01260,Galactose mutarotase-like superfamily protein
+AT3G01310,AT3G01310,Phosphoglycerate mutase-like family protein
+AT3G01380,AT3G01380,sulfatase and phosphatidylinositolglycan class N domain-containing protein
+AT3G01590,AT3G01590,Galactose mutarotase-like superfamily protein
+AT3G01640,AT3G01640, glucuronokinase G
+AT3G01910,AT3G01910, sulfite oxidase
+AT3G02230,AT3G02230, reversibly glycosylated polypeptide 1
+AT3G02470,AT3G02470, S-adenosylmethionine decarboxylase
+AT3G02580,AT3G02580, sterol 1
+AT3G02680,AT3G02680, nijmegen breakage syndrome 1
+AT3G02780,AT3G02780, isopentenyl pyrophosphate:dimethylallyl pyrophosphate isomerase 2
+AT3G02870,AT3G02870, Inositol monophosphatase family protein
+AT3G03250,AT3G03250, UDP-GLUCOSE PYROPHOSPHORYLASE 1
+AT3G03480,AT3G03480, acetyl CoA:(Z)-3-hexen-1-ol acetyltransferase
+AT3G03520,AT3G03520, non-specific phospholipase C3
+AT3G03630,AT3G03630, cysteine synthase 26
+AT3G03780,AT3G03780, methionine synthase 2
+AT3G03910,AT3G03910, glutamate dehydrogenase 3
+AT3G04680,AT3G04680, CLP-similar protein 3
+AT3G04870,AT3G04870, zeta-carotene desaturase
+AT3G05120,AT3G05120, alpha/beta-Hydrolases superfamily protein
+AT3G06060,AT3G06060, NAD(P)-binding Rossmann-fold superfamily protein
+AT3G06110,AT3G06110, MAPK phosphatase 2
+AT3G06350,AT3G06350," dehydroquinate dehydratase, putative / shikimate dehydrogenase"
+AT3G06510,AT3G06510, Glycosyl hydrolase superfamily protein
+AT3G06810,AT3G06810, acyl-CoA dehydrogenase-like protein
+AT3G06850,AT3G06850, 2-oxoacid dehydrogenases acyltransferase family protein
+AT3G06860,AT3G06860, multifunctional protein 2
+AT3G07040,AT3G07040, NB-ARC domain-containing disease resistance protein
+AT3G07270,AT3G07270,GTP cyclohydrolase I
+AT3G07525,AT3G07525, autophagocytosis-associated family protein
+AT3G07560,AT3G07560, peroxin 13
+AT3G07800,AT3G07800, Thymidine kinase
+AT3G08850,AT3G08850, Regulatory-associated protein of TOR 1
+AT3G09150,AT3G09150," phytochromobilin:ferredoxin oxidoreductase, chloroplast / phytochromobilin synthase (HY2)"
+AT3G09820,AT3G09820, adenosine kinase 1
+AT3G09840,AT3G09840, cell division cycle 48
+AT3G10050,AT3G10050, L-O-methylthreonine resistant 1
+AT3G10160,AT3G10160, DHFS-FPGS homolog C
+AT3G10230,AT3G10230, lycopene cyclase
+AT3G10370,AT3G10370, FAD-dependent oxidoreductase family protein
+AT3G10550,AT3G10550, Myotubularin-like phosphatases II superfamily
+AT3G10640,AT3G10640, SNF7 family protein
+AT3G10740,AT3G10740, alpha-L-arabinofuranosidase 1
+AT3G11470,AT3G11470,4'-phosphopantetheinyl transferase superfamily
+AT3G11670,AT3G11670, UDP-Glycosyltransferase superfamily protein
+AT3G11750,AT3G11750, Dihydroneopterin aldolase
+AT3G11945,AT3G11945, homogentisate prenyltransferase
+AT3G11980,AT3G11980, Jojoba acyl CoA reductase-related male sterility protein
+AT3G12500,AT3G12500, basic chitinase
+AT3G13730,AT3G13730," cytochrome P450, family 90, subfamily D, polypeptide 1"
+AT3G14130,AT3G14130, Aldolase-type TIM barrel family protein
+AT3G14390,AT3G14390,Pyridoxal-dependent decarboxylase family protein
+AT3G15290,AT3G15290,3-hydroxyacyl-CoA dehydrogenase family protein
+AT3G15650,AT3G15650,alpha/beta-Hydrolases superfamily protein
+AT3G16150,AT3G16150, N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein
+AT3G16170,AT3G16170, AMP-dependent synthetase and ligase family protein
+AT3G16700,AT3G16700,Fumarylacetoacetate (FAA) hydrolase family
+AT3G16910,AT3G16910, acyl-activating enzyme 7
+AT3G16990,AT3G16990,"heme oxygenase-like, multi-helical"
+AT3G17810,AT3G17810, pyrimidine 1
+AT3G18680,AT3G18680,Amino acid kinase family protein
+AT3G18690,AT3G18690, MAP kinase substrate 1
+AT3G18770,AT3G18770,Autophagy-related protein 13
+AT3G19420,AT3G19420, PTEN 2
+AT3G19620,AT3G19620,Glycosyl hydrolase family protein
+AT3G19820,AT3G19820, cell elongation protein / DWARF1 / DIMINUTO (DIM)
+AT3G20330,AT3G20330, PYRIMIDINE B
+AT3G21110,AT3G21110, purin 7
+AT3G21500,AT3G21500, 1-deoxy-D-xylulose 5-phosphate synthase 1
+AT3G21560,AT3G21560, UDP-Glycosyltransferase superfamily protein
+AT3G21720,AT3G21720, isocitrate lyase
+AT3G22200,AT3G22200, Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT3G22425,AT3G22425, imidazoleglycerol-phosphate dehydratase
+AT3G22740,AT3G22740, homocysteine S-methyltransferase 3
+AT3G23240,AT3G23240, ethylene response factor 1
+AT3G23490,AT3G23490, cyanase
+AT3G23800,AT3G23800, selenium-binding protein 3
+AT3G23810,AT3G23810, S-adenosyl-l-homocysteine (SAH) hydrolase 2
+AT3G23940,AT3G23940,dehydratase family
+AT3G24030,AT3G24030,hydroxyethylthiazole kinase family protein
+AT3G24090,AT3G24090, putative glucosamine-fructose-6-phosphate aminotransferase
+AT3G24170,AT3G24170, glutathione-disulfide reductase
+AT3G24200,AT3G24200,FAD/NAD(P)-binding oxidoreductase family protein
+AT3G24503,AT3G24503, aldehyde dehydrogenase 2C4
+AT3G25070,AT3G25070, RPM1 interacting protein 4
+AT3G25110,AT3G25110, fatA acyl-ACP thioesterase
+AT3G25180,AT3G25180," cytochrome P450, family 82, subfamily G, polypeptide 1"
+AT3G25250,AT3G25250," AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein"
+AT3G25400,AT3G25400,dCTP pyrophosphatase-like protein
+AT3G25820,AT3G25820," terpene synthase-like sequence-1,8-cineole"
+AT3G26830,AT3G26830, Cytochrome P450 superfamily protein
+AT3G27325,AT3G27325,"hydrolases, acting on ester bond"
+AT3G28910,AT3G28910, myb domain protein 30
+AT3G30180,AT3G30180, brassinosteroid-6-oxidase 2
+AT3G30775,AT3G30775, Methylenetetrahydrofolate reductase family protein
+AT3G42850,AT3G42850,Mevalonate/galactokinase family protein
+AT3G44300,AT3G44300, nitrilase 2
+AT3G44830,AT3G44830,Lecithin:cholesterol acyltransferase family protein
+AT3G44880,AT3G44880, Pheophorbide a oxygenase family protein with Rieske 2Fe-2S domain-containing protein
+AT3G45040,AT3G45040,phosphatidate cytidylyltransferase family protein
+AT3G45130,AT3G45130, lanosterol synthase 1
+AT3G45300,AT3G45300, isovaleryl-CoA-dehydrogenase
+AT3G45770,AT3G45770,"Polyketide synthase, enoylreductase family protein"
+AT3G46940,AT3G46940, DUTP-PYROPHOSPHATASE-LIKE 1
+AT3G47340,AT3G47340, glutamine-dependent asparagine synthase 1
+AT3G47390,AT3G47390, cytidine/deoxycytidylate deaminase family protein
+AT3G47450,AT3G47450, P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT3G47930,AT3G47930," L-galactono-1,4-lactone dehydrogenase"
+AT3G48540,AT3G48540,Cytidine/deoxycytidylate deaminase family protein
+AT3G48730,AT3G48730," glutamate-1-semialdehyde 2,1-aminomutase 2"
+AT3G48780,AT3G48780, serine palmitoyltransferase 1
+AT3G50070,AT3G50070,3
+AT3G50660,AT3G50660, Cytochrome P450 superfamily protein
+AT3G50740,AT3G50740, UDP-glucosyl transferase 72E1
+AT3G51160,AT3G51160, NAD(P)-binding Rossmann-fold superfamily protein
+AT3G51240,AT3G51240, flavanone 3-hydroxylase
+AT3G51460,AT3G51460, Phosphoinositide phosphatase family protein
+AT3G51820,AT3G51820, UbiA prenyltransferase family protein
+AT3G52940,AT3G52940, Ergosterol biosynthesis ERG4/ERG24 family
+AT3G53130,AT3G53130, Cytochrome P450 superfamily protein
+AT3G53580,AT3G53580,diaminopimelate epimerase family protein
+AT3G53900,AT3G53900, uracil phosphoribosyltransferase
+AT3G54440,AT3G54440,glycoside hydrolase family 2 protein
+AT3G54470,AT3G54470,uridine 5'-monophosphate synthase / UMP synthase (PYRE-F) (UMPS)
+AT3G54640,AT3G54640, tryptophan synthase alpha chain
+AT3G55010,AT3G55010," phosphoribosylformylglycinamidine cyclo-ligase, chloroplast / phosphoribosyl-aminoimidazole synthetase / AIR synthase (PUR5)"
+AT3G55120,AT3G55120, Chalcone-flavanone isomerase family protein
+AT3G55360,AT3G55360, 3-oxo-5-alpha-steroid 4-dehydrogenase family protein
+AT3G55400,AT3G55400, methionyl-tRNA synthetase / methionine-tRNA ligase / MetRS (cpMetRS)
+AT3G55410,AT3G55410,"2-oxoglutarate dehydrogenase, E1 component"
+AT3G55800,AT3G55800, sedoheptulose-bisphosphatase
+AT3G56040,AT3G56040, UDP-glucose pyrophosphorylase 3
+AT3G56310,AT3G56310,Melibiase family protein
+AT3G56940,AT3G56940," dicarboxylate diiron protein, putative (Crd1)"
+AT3G57050,AT3G57050, cystathionine beta-lyase
+AT3G57140,AT3G57140, sugar-dependent 1-like protein
+AT3G57560,AT3G57560, N-acetyl-l-glutamate kinase
+AT3G57610,AT3G57610, adenylosuccinate synthase
+AT3G58390,AT3G58390,Eukaryotic release factor 1 (eRF1) family protein
+AT3G58610,AT3G58610,ketol-acid reductoisomerase
+AT3G58830,AT3G58830,haloacid dehalogenase (HAD) superfamily protein
+AT3G59380,AT3G59380, farnesyltransferase A
+AT3G59410,AT3G59410, protein kinase family protein
+AT3G59710,AT3G59710,NAD(P)-binding Rossmann-fold superfamily protein
+AT3G60180,AT3G60180,P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT3G60340,AT3G60340,alpha/beta-Hydrolases superfamily protein
+AT3G61440,AT3G61440, cysteine synthase C1
+AT3G62040,AT3G62040,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein
+AT3G62080,AT3G62080,SNF7 family protein
+AT3G62130,AT3G62130, Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT3G62980,AT3G62980, F-box/RNI-like superfamily protein
+AT3G63410,AT3G63410, S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT4G00020,AT4G00020, BREAST CANCER 2 like 2A
+AT4G01250,AT4G01250, WRKY family transcription factor
+AT4G01320,AT4G01320, Peptidase family M48 family protein
+AT4G01370,AT4G01370, MAP kinase 4
+AT4G01690,AT4G01690, Flavin containing amine oxidoreductase family
+AT4G01970,AT4G01970, stachyose synthase
+AT4G02780,AT4G02780, Terpenoid cyclases/Protein prenyltransferases superfamily protein
+AT4G02930,AT4G02930,GTP binding Elongation factor Tu family protein
+AT4G03240,AT4G03240, frataxin-like protein
+AT4G04320,AT4G04320,malonyl-CoA decarboxylase family protein
+AT4G04870,AT4G04870, cardiolipin synthase
+AT4G04880,AT4G04880,adenosine/AMP deaminase family protein
+AT4G04930,AT4G04930, fatty acid desaturase family protein
+AT4G04955,AT4G04955, allantoinase
+AT4G05090,AT4G05090,Inositol monophosphatase family protein
+AT4G08170,AT4G08170,"Inositol 1,3,4-trisphosphate 5/6-kinase family protein"
+AT4G08480,AT4G08480, mitogen-activated protein kinase kinase kinase 9
+AT4G08500,AT4G08500, MAPK/ERK kinase kinase 1
+AT4G08870,AT4G08870, Arginase/deacetylase superfamily protein
+AT4G09320,AT4G09320, nucleoside diphosphate kinase
+AT4G10100,AT4G10100," co-factor for nitrate, reductase and xanthine dehydrogenase 7"
+AT4G11640,AT4G11640, serine racemase
+AT4G11820,AT4G11820, hydroxymethylglutaryl-CoA synthase / HMG-CoA synthase / 3-hydroxy-3-methylglutaryl coenzyme A synthase
+AT4G11980,AT4G11980, nudix hydrolase homolog 14
+AT4G12110,AT4G12110, sterol-4alpha-methyl oxidase 1-1
+AT4G13250,AT4G13250, NAD(P)-binding Rossmann-fold superfamily protein
+AT4G13280,AT4G13280, terpenoid synthase 12
+AT4G13720,AT4G13720,Inosine triphosphate pyrophosphatase family protein
+AT4G14090,AT4G14090,UDP-Glycosyltransferase superfamily protein
+AT4G14210,AT4G14210, phytoene desaturase 3
+AT4G14440,AT4G14440, 3-hydroxyacyl-CoA dehydratase 1
+AT4G15093,AT4G15093, catalytic LigB subunit of aromatic ring-opening dioxygenase family
+AT4G15340,AT4G15340, pentacyclic triterpene synthase 1
+AT4G15370,AT4G15370, baruol synthase 1
+AT4G15530,AT4G15530, pyruvate orthophosphate dikinase
+AT4G16210,AT4G16210, enoyl-CoA hydratase/isomerase A
+AT4G16566,AT4G16566, histidine triad nucleotide-binding 4
+AT4G16690,AT4G16690, methyl esterase 16
+AT4G16700,AT4G16700, phosphatidylserine decarboxylase 1
+AT4G16800,AT4G16800,ATP-dependent caseinolytic (Clp) protease/crotonase family protein
+AT4G17050,AT4G17050, ureidoglycine aminohydrolase
+AT4G17260,AT4G17260,Lactate/malate dehydrogenase family protein
+AT4G17360,AT4G17360,Formyl transferase
+AT4G17830,AT4G17830,Peptidase M20/M25/M40 family protein
+AT4G17910,AT4G17910,"transferases, transferring acyl groups"
+AT4G20070,AT4G20070, allantoate amidohydrolase
+AT4G20930,AT4G20930,6-phosphogluconate dehydrogenase family protein
+AT4G21470,AT4G21470, riboflavin kinase/FMN hydrolase
+AT4G21534,AT4G21534, Diacylglycerol kinase family protein
+AT4G22330,AT4G22330, Alkaline phytoceramidase (aPHC)
+AT4G22870,AT4G22870,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT4G22930,AT4G22930, pyrimidin 4
+AT4G23100,AT4G23100, glutamate-cysteine ligase
+AT4G23660,AT4G23660, polyprenyltransferase 1
+AT4G24040,AT4G24040, trehalase 1
+AT4G24210,AT4G24210, F-box family protein
+AT4G24620,AT4G24620, phosphoglucose isomerase 1
+AT4G24730,AT4G24730,manganese-dependent ADP-ribose/CDP-alcohol diphosphatase-like protein
+AT4G24830,AT4G24830,arginosuccinate synthase family
+AT4G25080,AT4G25080, magnesium-protoporphyrin IX methyltransferase
+AT4G25550,AT4G25550,"Cleavage/polyadenylation specificity factor, 25kDa subunit"
+AT4G25700,AT4G25700, beta-hydroxylase 1
+AT4G25840,AT4G25840, glycerol-3-phosphatase 1
+AT4G26070,AT4G26070, MAP kinase/ ERK kinase 1
+AT4G26090,AT4G26090, NB-ARC domain-containing disease resistance protein
+AT4G26750,AT4G26750, hydroxyproline-rich glycoprotein family protein
+AT4G26850,AT4G26850, GDP-L-galactose phosphorylase 1
+AT4G26900,AT4G26900, HIS HF
+AT4G26910,AT4G26910,Dihydrolipoamide succinyltransferase
+AT4G27270,AT4G27270,Quinone reductase family protein
+AT4G28680,AT4G28680, L-tyrosine decarboxylase
+AT4G29680,AT4G29680,Alkaline-phosphatase-like family protein
+AT4G29720,AT4G29720, polyamine oxidase 5
+AT4G29810,AT4G29810, MAP kinase kinase 2
+AT4G29890,AT4G29890,"choline monooxygenase, putative (CMO-like)"
+AT4G30790,AT4G30790,autophagy-like protein
+AT4G31500,AT4G31500," cytochrome P450, family 83, subfamily B, polypeptide 1"
+AT4G32770,AT4G32770," tocopherol cyclase, chloroplast / vitamin E deficient 1 (VTE1) / sucrose export defective 1 (SXD1)"
+AT4G32810,AT4G32810, carotenoid cleavage dioxygenase 8
+AT4G32960,AT4G32960,BRISC/BRCA1-A complex protein
+AT4G33030,AT4G33030, sulfoquinovosyldiacylglycerol 1
+AT4G33070,AT4G33070,Thiamine pyrophosphate dependent pyruvate decarboxylase family protein
+AT4G33150,AT4G33150,lysine-ketoglutarate reductase/saccharopine dehydrogenase bifunctional enzyme
+AT4G33360,AT4G33360, NAD(P)-binding Rossmann-fold superfamily protein
+AT4G33670,AT4G33670,NAD(P)-linked oxidoreductase superfamily protein
+AT4G34350,AT4G34350, 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+AT4G34640,AT4G34640, squalene synthase 1
+AT4G34840,AT4G34840,Phosphorylase superfamily protein
+AT4G34890,AT4G34890, xanthine dehydrogenase 1
+AT4G35150,AT4G35150,O-methyltransferase family protein
+AT4G35910,AT4G35910,Adenine nucleotide alpha hydrolases-like superfamily protein
+AT4G35987,AT4G35987,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT4G36220,AT4G36220, ferulic acid 5-hydroxylase 1
+AT4G37000,AT4G37000, accelerated cell death 2 (ACD2)
+AT4G37550,AT4G37550,Acetamidase/Formamidase family protein
+AT4G37870,AT4G37870, phosphoenolpyruvate carboxykinase 1
+AT4G38240,AT4G38240," alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase"
+AT4G39120,AT4G39120, inositol monophosphatase family protein
+AT5G01220,AT5G01220, sulfoquinovosyldiacylglycerol 2
+AT5G02410,AT5G02410, DIE2/ALG10 family
+AT5G02810,AT5G02810, pseudo-response regulator 7
+AT5G03080,AT5G03080, Phosphatidic acid phosphatase (PAP2) family protein
+AT5G03280,AT5G03280, NRAMP metal ion transporter family protein
+AT5G03370,AT5G03370,acylphosphatase family
+AT5G03730,AT5G03730, Protein kinase superfamily protein
+AT5G03860,AT5G03860, malate synthase
+AT5G04590,AT5G04590, sulfite reductase
+AT5G04620,AT5G04620, biotin F
+AT5G05690,AT5G05690, Cytochrome P450 superfamily protein
+AT5G06580,AT5G06580,FAD-linked oxidases family protein
+AT5G07370,AT5G07370, inositol polyphosphate kinase 2 alpha
+AT5G07990,AT5G07990, Cytochrome P450 superfamily protein
+AT5G08170,AT5G08170, porphyromonas-type peptidyl-arginine deiminase family protein
+AT5G08280,AT5G08280, hydroxymethylbilane synthase
+AT5G08330,AT5G08330, TCP family transcription factor
+AT5G08335,AT5G08335, Isoprenylcysteine carboxyl methyltransferase (ICMT) family
+AT5G08340,AT5G08340,Nucleotidylyl transferase superfamily protein
+AT5G08470,AT5G08470, peroxisome 1
+AT5G08640,AT5G08640, flavonol synthase 1
+AT5G08740,AT5G08740, NAD(P)H dehydrogenase C1
+AT5G09230,AT5G09230, sirtuin 2
+AT5G09290,AT5G09290,Inositol monophosphatase family protein
+AT5G09640,AT5G09640, serine carboxypeptidase-like 19
+AT5G10480,AT5G10480," Protein-tyrosine phosphatase-like, PTPLA"
+AT5G10630,AT5G10630,Translation elongation factor EF1A/initiation factor IF2gamma family protein
+AT5G10920,AT5G10920,L-Aspartase-like family protein
+AT5G11720,AT5G11720,Glycosyl hydrolases family 31 protein
+AT5G12040,AT5G12040,Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase family protein
+AT5G12200,AT5G12200, pyrimidine 2
+AT5G13160,AT5G13160, Protein kinase superfamily protein
+AT5G13690,AT5G13690, alpha-N-acetylglucosaminidase family / NAGLU family
+AT5G13700,AT5G13700, polyamine oxidase 1
+AT5G13710,AT5G13710, sterol methyltransferase 1
+AT5G13930,AT5G13930, Chalcone and stilbene synthase family protein
+AT5G14760,AT5G14760, L-aspartate oxidase
+AT5G14780,AT5G14780, formate dehydrogenase
+AT5G14800,AT5G14800, pyrroline-5- carboxylate (P5C) reductase
+AT5G14850,AT5G14850,Alg9-like mannosyltransferase family
+AT5G14950,AT5G14950, golgi alpha-mannosidase II
+AT5G15770,AT5G15770, glucose-6-phosphate acetyltransferase 1
+AT5G15840,AT5G15840, B-box type zinc finger protein with CCT domain-containing protein
+AT5G17050,AT5G17050, UDP-glucosyl transferase 78D2
+AT5G17230,AT5G17230, PHYTOENE SYNTHASE
+AT5G17290,AT5G17290, autophagy protein Apg5 family
+AT5G17990,AT5G17990, tryptophan biosynthesis 1
+AT5G18070,AT5G18070, phosphoglucosamine mutase-like protein
+AT5G18200,AT5G18200,putative galactose-1-phosphate uridyltransferase
+AT5G18660,AT5G18660, NAD(P)-binding Rossmann-fold superfamily protein
+AT5G19400,AT5G19400, Telomerase activating protein Est1
+AT5G20070,AT5G20070, nudix hydrolase homolog 19
+AT5G20480,AT5G20480, EF-TU receptor
+AT5G20990,AT5G20990, molybdopterin biosynthesis CNX1 protein / molybdenum cofactor biosynthesis enzyme CNX1 (CNX1)
+AT5G22300,AT5G22300, nitrilase 4
+AT5G23300,AT5G23300, pyrimidine d
+AT5G23960,AT5G23960, terpene synthase 21
+AT5G24470,AT5G24470, two-component response regulator-like protein
+AT5G24770,AT5G24770, vegetative storage protein 2
+AT5G25900,AT5G25900, GA requiring 3
+AT5G26710,AT5G26710,"Glutamyl/glutaminyl-tRNA synthetase, class Ic"
+AT5G27380,AT5G27380, glutathione synthetase 2
+AT5G27450,AT5G27450, mevalonate kinase
+AT5G27730,AT5G27730,heparan-alpha-glucosaminide N-acetyltransferase-like protein (DUF1624)
+AT5G28840,AT5G28840," GDP-D-mannose 3',5'-epimerase"
+AT5G32470,AT5G32470,"heme oxygenase-like, multi-helical"
+AT5G36150,AT5G36150, putative pentacyclic triterpene synthase 3
+AT5G36700,AT5G36700, 2-phosphoglycolate phosphatase 1
+AT5G36880,AT5G36880, acetyl-CoA synthetase
+AT5G37300,AT5G37300, O-acyltransferase (WSD1-like) family protein
+AT5G37830,AT5G37830, oxoprolinase 1
+AT5G37850,AT5G37850, pfkB-like carbohydrate kinase family protein
+AT5G38460,AT5G38460,"ALG6, ALG8 glycosyltransferase family"
+AT5G40440,AT5G40440, mitogen-activated protein kinase kinase 3
+AT5G40850,AT5G40850, urophorphyrin methylase 1
+AT5G41480,AT5G41480, Folylpolyglutamate synthetase family protein
+AT5G42150,AT5G42150,Glutathione S-transferase family protein
+AT5G42370,AT5G42370,Calcineurin-like metallo-phosphoesterase superfamily protein
+AT5G42470,AT5G42470,BRCA1-A complex subunit BRE-like protein
+AT5G42600,AT5G42600, marneral synthase
+AT5G42650,AT5G42650, allene oxide synthase
+AT5G42800,AT5G42800, dihydroflavonol 4-reductase
+AT5G43600,AT5G43600, ureidoglycolate amidohydrolase
+AT5G44200,AT5G44200, CAP-binding protein 20
+AT5G44630,AT5G44630,Terpenoid cyclases/Protein prenyltransferases superfamily protein
+AT5G45260,AT5G45260, Disease resistance protein (TIR-NBS-LRR class)
+AT5G45900,AT5G45900, ThiF family protein
+AT5G46180,AT5G46180, ornithine-delta-aminotransferase
+AT5G46330,AT5G46330, Leucine-rich receptor-like protein kinase family protein
+AT5G47010,AT5G47010, RNA helicase
+AT5G47720,AT5G47720, Thiolase family protein
+AT5G48010,AT5G48010, thalianol synthase 1
+AT5G48840,AT5G48840, pantoate-beta-alanine ligase
+AT5G49650,AT5G49650, xylulose kinase-2
+AT5G49810,AT5G49810, methionine S-methyltransferase
+AT5G50210,AT5G50210, quinolinate synthase
+AT5G50375,AT5G50375, cyclopropyl isomerase
+AT5G51290,AT5G51290, Diacylglycerol kinase family protein
+AT5G51970,AT5G51970,GroES-like zinc-binding alcohol dehydrogenase family protein
+AT5G52560,AT5G52560, UDP-sugar pyrophosphorylase
+AT5G53000,AT5G53000, 2A phosphatase associated protein of 46 kD
+AT5G53210,AT5G53210, basic helix-loop-helix (bHLH) DNA-binding superfamily protein
+AT5G53460,AT5G53460, NADH-dependent glutamate synthase 1
+AT5G53580,AT5G53580, NAD(P)-linked oxidoreductase superfamily protein
+AT5G53850,AT5G53850,haloacid dehalogenase-like hydrolase family protein
+AT5G54060,AT5G54060, UDP-glucose:flavonoid 3-o-glucosyltransferase
+AT5G54080,AT5G54080," homogentisate 1,2-dioxygenase"
+AT5G54160,AT5G54160, O-methyltransferase 1
+AT5G54260,AT5G54260, DNA repair and meiosis protein (Mre11)
+AT5G55130,AT5G55130," co-factor for nitrate, reductase and xanthine dehydrogenase 5"
+AT5G55500,AT5G55500," beta-1,2-xylosyltransferase"
+AT5G55810,AT5G55810, nicotinate/nicotinamide mononucleotide adenyltransferase
+AT5G56090,AT5G56090, cytochrome c oxidase 15
+AT5G56290,AT5G56290, peroxin 5
+AT5G56580,AT5G56580, MAP kinase kinase 6
+AT5G57030,AT5G57030, Lycopene beta/epsilon cyclase protein
+AT5G57170,AT5G57170,Tautomerase/MIF superfamily protein
+AT5G57560,AT5G57560, Xyloglucan endotransglucosylase/hydrolase family protein
+AT5G57590,AT5G57590, adenosylmethionine-8-amino-7-oxononanoate transaminase
+AT5G57655,AT5G57655,xylose isomerase family protein
+AT5G57850,AT5G57850, D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein
+AT5G58220,AT5G58220, transthyretin-like protein
+AT5G58330,AT5G58330,lactate/malate dehydrogenase family protein
+AT5G58560,AT5G58560, Phosphatidate cytidylyltransferase family protein
+AT5G58730,AT5G58730, pfkB-like carbohydrate kinase family protein
+AT5G59440,AT5G59440, P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT5G60600,AT5G60600, 4-hydroxy-3-methylbut-2-enyl diphosphate synthase
+AT5G61160,AT5G61160, anthocyanin 5-aromatic acyltransferase 1
+AT5G61380,AT5G61380, CCT motif -containing response regulator protein
+AT5G61500,AT5G61500, autophagy 3 (APG3)
+AT5G62430,AT5G62430, cycling DOF factor 1
+AT5G62530,AT5G62530, aldehyde dehydrogenase 12A1
+AT5G62790,AT5G62790, 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AT5G62810,AT5G62810, peroxin 14
+AT5G63840,AT5G63840, Glycosyl hydrolases family 31 protein
+AT5G63890,AT5G63890, histidinol dehydrogenase
+AT5G63910,AT5G63910, farnesylcysteine lyase
+AT5G64370,AT5G64370, beta-ureidopropionase
+AT5G65720,AT5G65720, nitrogen fixation S (NIFS)-like 1
+AT5G66005,AT5G66005,Expressed protein
+AT5G66120,AT5G66120,3-dehydroquinate synthase
+AT5G66930,AT5G66930,meiotically up-regulated protein
+AT5G67030,AT5G67030, zeaxanthin epoxidase (ZEP) (ABA1)
